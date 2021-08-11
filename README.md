@@ -23,7 +23,8 @@ Users should be able to:
 
 ### Screenshot
 
-![](./design/active-states.jpg)
+![](./Frontend Mentor Order summary card-desktop.png)
+![](./Frontend Mentor Order summary card-mobile.png)
 
 
 ### Links
