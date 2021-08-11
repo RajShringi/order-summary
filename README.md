@@ -23,8 +23,8 @@ Users should be able to:
 
 ### Screenshot
 
-![](./images/ Frontend%20Mentor%20Order%20summary%20card-desktop.png)
-![](./images/ Frontend%20Mentor%20Order%20summary%20card-mobile.png)
+![](/home/bunny/Downloads/order-summary-component-main/images/ Frontend-Mentor-Order-summary-card-desktop.png)
+![](/home/bunny/Downloads/order-summary-component-main/images/ Frontend-Mentor-Order-summary-card-mobile.png)
 
 
 ### Links
