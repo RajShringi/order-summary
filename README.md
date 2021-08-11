@@ -27,8 +27,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://www.frontendmentor.io/solutions/ordersummarycomponent-eRDVu2ohS]
+- Live Site URL: [https://rajshringi.github.io/order-summary/]
 
 ## My process
 
@@ -41,7 +41,6 @@ Users should be able to:
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Frontend Mentor - [RajShringi](https://www.frontendmentor.io/profile/RajShringi)
+- Twitter - [rajshringi1](https://twitter.com/RajShringi1)
 
