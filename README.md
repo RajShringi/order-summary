@@ -23,8 +23,8 @@ Users should be able to:
 
 ### Screenshot
 
-![](./Frontend Mentor Order summary card-desktop.png)
-![](./Frontend Mentor Order summary card-mobile.png)
+![alt text](./images/ Frontend Mentor Order summary card-desktop.png)
+![alt text](./images/ Frontend Mentor Order summary card-mobile.png)
 
 
 ### Links
