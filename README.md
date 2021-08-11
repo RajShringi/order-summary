@@ -22,10 +22,8 @@ Users should be able to:
 - See hover states for interactive elements
 
 ### Screenshot
-
-![](/home/bunny/Downloads/order-summary-component-main/images/ Frontend-Mentor-Order-summary-card-desktop.png)
-![](/home/bunny/Downloads/order-summary-component-main/images/ Frontend-Mentor-Order-summary-card-mobile.png)
-
+<img src="images/ Frontend-Mentor-Order-summary-card-desktop.png">
+<img src="images/ Frontend-Mentor-Order-summary-card-mobile.png">
 
 ### Links
 
